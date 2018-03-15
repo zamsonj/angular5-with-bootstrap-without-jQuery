@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Angular5 with Bootstrap without JQuery';
+  paragraph = 'You can run an Angular5 application with Bootstrap with all Bootstrap funcionalities wihout any jQuery dependency.';
 }
